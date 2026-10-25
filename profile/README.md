@@ -43,7 +43,7 @@ Built by one team, tested every day on our own server.
 
 ## Erila Network
 
-<img align="right" src="assets/icon-filled-dark.png" width="96" alt="">
+<img align="right" src="assets/erila-logo.png" width="96" alt="Erila Network">
 
 The Minecraft Bedrock server we opened in 2024. Everything we build gets tested here first, with real players.
 
